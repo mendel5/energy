@@ -16,6 +16,7 @@ Informationen über Anbieter von Energie (Strom und Gas) in Deutschland
 - https://www.spiegel.de/wirtschaft/erdgas-versorgung-europas-im-live-tracker-speicher-pipelines-lng-a-e2986967-51d2-4c8c-9607-f3ff3e333361
 - https://app.electricitymaps.com/zone/DE
 - https://www.dashboard-deutschland.de/energie/energie
+- https://agsi.gie.eu/data-overview/DE Gas storage
 - https://www.energy-charts.info/index.html?l=de&c=DE
 - https://www.smard.de/home
 - https://www.agora-energiewende.de/daten-tools/agorameter
