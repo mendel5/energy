@@ -1,36 +1,32 @@
 # energie - Strom und Gas
 Informationen über Anbieter von Energie (Strom und Gas) in Deutschland
 
-## Links: Vergleichsplattformen - Strom
+## Strom
+### Vergleichsplattformen
 - https://www.check24.de/strom/
 - https://www.verivox.de/stromvergleich/
 
-## Links: Vergleichsplattformen - Gas
-- https://www.check24.de/gas/
-- https://www.verivox.de/gasvergleich/
-
-## Links: Anbieter - Strom
+### Anbieter
 - https://www.enbw.com/strom/privatkunden/produkte
 - https://www.eon.de/de/pk/strom.html
 - https://www.vattenfall.de/stromtarife
 - https://shop.ewe.de/privatkunden/strom
 
-## Links: Anbieter - Gas
+## Gas
+### Vergleichsplattformen
+- https://www.check24.de/gas/
+- https://www.verivox.de/gasvergleich/
+
+### Anbieter
 - https://www.enbw.com/gas/privatkunden/produkte
 - https://www.eon.de/de/pk/erdgas.html
 - https://www.vattenfall.de/gastarife
 - https://shop.ewe.de/privatkunden/gas
 
-## Links: Anbieter
-- https://www.enbw.com/
-- https://www.eon.de/de/pk.html
-- https://www.vattenfall.de/
-- https://www.ewe.de/
-
 ## Dashboards Energie Deutschland
-- https://www.zeit.de/wirtschaft/energiemonitor-deutschland-gaspreis-spritpreis-energieversorgung
+- https://www.zeit.de/wirtschaft/energiemonitor-deutschland-gaspreis-spritpreis-energieversorgung Ja
 - https://www.spiegel.de/wirtschaft/erdgas-versorgung-europas-im-live-tracker-speicher-pipelines-lng-a-e2986967-51d2-4c8c-9607-f3ff3e333361
-- https://app.electricitymaps.com/zone/DE
+- https://app.electricitymaps.com/zone/DE Ja
 - https://www.dashboard-deutschland.de/energie/energie
 - https://agsi.gie.eu/data-overview/DE Gas storage
 - https://www.energy-charts.info/index.html?l=de&c=DE
