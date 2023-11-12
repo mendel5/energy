@@ -9,6 +9,18 @@ Informationen über Anbieter von Energie (Strom und Gas) in Deutschland
 - https://www.check24.de/gas/
 - https://www.verivox.de/gasvergleich/
 
+## Links: Anbieter - Strom
+- https://www.enbw.com/strom/privatkunden/produkte
+- https://www.eon.de/de/pk/strom.html
+- https://www.vattenfall.de/stromtarife
+- https://shop.ewe.de/privatkunden/strom
+
+## Links: Anbieter - Gas
+- https://www.enbw.com/gas/privatkunden/produkte
+- https://www.eon.de/de/pk/erdgas.html
+- https://www.vattenfall.de/gastarife
+- https://shop.ewe.de/privatkunden/gas
+
 ## Links: Anbieter
 - https://www.enbw.com/
 - https://www.eon.de/de/pk.html
