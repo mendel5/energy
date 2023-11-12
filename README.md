@@ -1,9 +1,13 @@
 # energie - Strom und Gas
 Informationen über Anbieter von Energie (Strom und Gas) in Deutschland
 
-## Links: Vergleichsplattformen
-- https://www.check24.de/
-- https://www.verivox.de/
+## Links: Vergleichsplattformen - Strom
+- https://www.check24.de/strom/
+- https://www.verivox.de/stromvergleich/
+
+## Links: Vergleichsplattformen - Gas
+- https://www.check24.de/gas/
+- https://www.verivox.de/gasvergleich/
 
 ## Links: Anbieter
 - https://www.enbw.com/
