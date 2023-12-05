@@ -24,7 +24,7 @@ Informationen über Anbieter von Energie (Strom und Gas) in Deutschland
 - https://shop.ewe.de/privatkunden/gas
 
 ## Dashboards Energie Deutschland
-- https://www.zeit.de/wirtschaft/energiemonitor-deutschland-gaspreis-spritpreis-energieversorgung Ja
+- https://www.zeit.de/wirtschaft/energiemonitor-strompreis-gaspreis-erneuerbare-energien-ausbau Ja
 - https://www.spiegel.de/wirtschaft/erdgas-versorgung-europas-im-live-tracker-speicher-pipelines-lng-a-e2986967-51d2-4c8c-9607-f3ff3e333361
 - https://app.electricitymaps.com/zone/DE Ja
 - https://www.dashboard-deutschland.de/energie/energie
