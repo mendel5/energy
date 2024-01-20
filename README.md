@@ -1,4 +1,4 @@
-# energie - Strom und Gas
+# energy - Energie: Strom und Gas
 Informationen über Anbieter von Energie (Strom und Gas) in Deutschland
 
 ## Strom
