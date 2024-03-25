@@ -34,6 +34,7 @@ Informationen über Anbieter von Energie (Strom und Gas) in Deutschland
 - https://www.agora-energiewende.de/daten-tools/agorameter
 - https://www.dashboard-deutschland.de/energie/energie
 - https://www.verivox.de/strom/strompreisentwicklung/
+- https://www.verivox.de/gas/gaspreisentwicklung/
 
 ## Solarausbau Deutschland
 Ausbauziele für Solaranlagen/Photovoltaiksysteme in Deutschland pro Jahr
