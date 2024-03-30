@@ -1,6 +1,8 @@
 # energy - Energie: Strom und Gas
 Informationen über Anbieter von Energie (Strom und Gas) in Deutschland
 
+Note: Some content is focused on Germany.
+
 ## Strom
 ### Vergleichsplattformen
 - https://www.check24.de/strom/
