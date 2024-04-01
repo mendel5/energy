@@ -37,6 +37,7 @@ Note: Some content is focused on Germany.
 - https://www.dashboard-deutschland.de/energie/energie
 - https://www.verivox.de/strom/strompreisentwicklung/
 - https://www.verivox.de/gas/gaspreisentwicklung/
+- https://globalenergymonitor.org/
 
 ## Solarausbau Deutschland
 Ausbauziele für Solaranlagen/Photovoltaiksysteme in Deutschland pro Jahr
