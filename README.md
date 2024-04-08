@@ -32,6 +32,7 @@ Note: Some content is focused on Germany.
 - https://agsi.gie.eu/data-overview/DE Gas storage
 - https://www.energy-charts.info/index.html?l=de&c=DE
 - https://www.energy-charts.info/charts/power/chart.htm?l=de&c=DE
+- https://battery-charts.de/
 - https://www.smard.de/home
 - https://www.agora-energiewende.de/daten-tools/agorameter
 - https://www.dashboard-deutschland.de/energie/energie
