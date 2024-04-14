@@ -7,6 +7,7 @@ Note: Some content is focused on Germany.
 ### Vergleichsplattformen
 - https://www.check24.de/strom/
 - https://www.verivox.de/stromvergleich/
+- https://www.finanztip.de/stromvergleich/
 
 ### Anbieter
 - https://www.enbw.com/strom/privatkunden/produkte
@@ -18,6 +19,7 @@ Note: Some content is focused on Germany.
 ### Vergleichsplattformen
 - https://www.check24.de/gas/
 - https://www.verivox.de/gasvergleich/
+- https://www.finanztip.de/gaspreisvergleich/
 
 ### Anbieter
 - https://www.enbw.com/gas/privatkunden/produkte
