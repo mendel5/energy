@@ -27,7 +27,7 @@ Note: Some content is focused on Germany.
 - https://www.vattenfall.de/gastarife
 - https://shop.ewe.de/privatkunden/gas
 
-## Dashboards Energie Deutschland
+## Dashboards Energie
 - https://www.zeit.de/wirtschaft/energiemonitor-strompreis-gaspreis-erneuerbare-energien-ausbau Ja
 - https://www.spiegel.de/wirtschaft/erdgas-versorgung-europas-im-live-tracker-speicher-pipelines-lng-a-e2986967-51d2-4c8c-9607-f3ff3e333361
 - https://app.electricitymaps.com/zone/DE Ja
@@ -40,6 +40,9 @@ Note: Some content is focused on Germany.
 - https://www.dashboard-deutschland.de/energie/energie
 - https://www.verivox.de/strom/strompreisentwicklung/
 - https://www.verivox.de/gas/gaspreisentwicklung/
+- https://www.verivox.de/strom/verbraucheratlas/strompreise-weltweit/
+- https://www.verivox.de/strom/verbraucheratlas/strompreise-europa/
+- https://www.verivox.de/gas/verbraucheratlas/gaspreise-europa/
 - https://globalenergymonitor.org/
 - https://klimadashboard.de/
 - https://www.gridstatus.io/home
