@@ -38,8 +38,8 @@ Note: Some content is focused on Germany.
 - https://www.smard.de/home
 - https://www.agora-energiewende.de/daten-tools/agorameter
 - https://www.dashboard-deutschland.de/energie/energie
-- https://www.verivox.de/strom/strompreisentwicklung/
-- https://www.verivox.de/gas/gaspreisentwicklung/
+- https://www.verivox.de/strom/strompreisentwicklung/ Ja
+- https://www.verivox.de/gas/gaspreisentwicklung/ Ja
 - https://www.verivox.de/strom/verbraucheratlas/strompreise-weltweit/
 - https://www.verivox.de/strom/verbraucheratlas/strompreise-europa/
 - https://www.verivox.de/gas/verbraucheratlas/gaspreise-europa/
