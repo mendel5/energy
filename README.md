@@ -47,6 +47,7 @@ Note: Some content is focused on Germany.
 - https://klimadashboard.de/
 - https://www.gridstatus.io/home
 - https://www.mdr.de/wissen/windkraft-windenergie-ausbau-deutschland-live-daten-aktuell-100.html
+- https://goal100.org/
 
 ## Solarausbau Deutschland
 Ausbauziele für Solaranlagen/Photovoltaiksysteme in Deutschland pro Jahr
