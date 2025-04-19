@@ -3,6 +3,9 @@ Informationen über Anbieter von Energie (Strom und Gas) in Deutschland
 
 Note: Some content is focused on Germany.
 
+See also / Siehe auch:
+- https://github.com/mendel5/
+
 ## Strom
 ### Vergleichsplattformen
 - https://www.check24.de/strom/
