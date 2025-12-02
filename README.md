@@ -55,6 +55,7 @@ See also / Siehe auch:
 - https://www.fachagentur-wind-solar.de/veroeffentlichungen/wind-und-solar-monitor/genehmigungen-wind Ja
 - https://www.fachagentur-wind-solar.de/veroeffentlichungen/wind-und-solar-monitor/ausschreibungen-wind
 - https://open-ev-charts.org/#DE:electric-sales:model:all-time:table
+- https://strom-report.com/strompreisentwicklung/
 
 ## Solarausbau Deutschland
 Ausbauziele für Solaranlagen/Photovoltaiksysteme in Deutschland pro Jahr
