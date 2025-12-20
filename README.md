@@ -51,7 +51,7 @@ See also / Siehe auch:
 - https://klimadashboard.de/
 - https://www.gridstatus.io/home
 - https://www.mdr.de/wissen/windkraft-windenergie-ausbau-deutschland-live-daten-aktuell-100.html
-- https://goal100.org/
+- https://goal100.org/monitor
 - https://www.fachagentur-wind-solar.de/veroeffentlichungen/wind-und-solar-monitor/genehmigungen-wind Ja
 - https://www.fachagentur-wind-solar.de/veroeffentlichungen/wind-und-solar-monitor/ausschreibungen-wind
 - https://open-ev-charts.org/#DE:electric-sales:model:all-time:table
