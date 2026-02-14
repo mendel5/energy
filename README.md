@@ -56,6 +56,10 @@ See also / Siehe auch:
 - https://www.fachagentur-wind-solar.de/veroeffentlichungen/wind-und-solar-monitor/ausschreibungen-wind
 - https://open-ev-charts.org/#DE:electric-sales:model:all-time:table
 - https://strom-report.com/strompreisentwicklung/
+- https://www.diw.de/de/diw_01.c.997303.de/diw_energiewende-monitor.html DIW Energiewende-Monitor
+- https://openenergytracker.org/ Open Energy Tracker
+- https://openenergytracker.org/docs/germany/ Open Energy Tracker: Deutschland
+- https://openenergytracker.org/docs/germany/electricity/ Open Energy Tracker: Deutschland: Strom
 
 ## Solarausbau Deutschland
 Ausbauziele für Solaranlagen/Photovoltaiksysteme in Deutschland pro Jahr
